@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
 
     @OnClick(R.id.btn1)
     void onBtn1Click() {
-        Toast.makeText(this, "点击btn1", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "点击btn", Toast.LENGTH_SHORT).show();
     }
 
     @OnLongClick(R.id.btn1)
