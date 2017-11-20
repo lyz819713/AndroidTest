@@ -12,21 +12,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\AS\AndroidTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jar="D:\androidProject\AndroidTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.3"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="D:\AS\AndroidTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_7b7cc498d20c0ca651f6c0d6b04fde429c156cdf.jar" />
+        <dex dex="D:\androidProject\AndroidTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_661bcc1385920bbf2df5c212cfa5bd7a73f37ea9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AS\AndroidTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jar="D:\androidProject\AndroidTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="D:\AS\AndroidTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_ea10f5cea648398e42e562dcdabebfa8c64c6eee.jar" />
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\androidProject\AndroidTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_04c329014cb5cc3491151081edd09128bdbc9ad0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,12 +39,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\AS\AndroidTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\AS\AndroidTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_ea10f5cea648398e42e562dcdabebfa8c64c6eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidProject\AndroidTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\androidProject\AndroidTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_458ee9bc307699323303d4ddfc036213435773dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\AS\AndroidTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.3"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
         <dex dex="D:\AS\AndroidTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_204c465eb9466ecd59ec8bba0e349d1b9a4ebe0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\AS\AndroidTest\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6f7933f813ce74376bda11877cdc501a7a92caed.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,12 +84,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\SDK\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jar="D:\androidProject\AndroidTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="D:\AS\AndroidTest\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6f7933f813ce74376bda11877cdc501a7a92caed.jar" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\androidProject\AndroidTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_b7a5afb940f7793021ffc0dccbbd3ba245e1b892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\AndroidTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\AS\AndroidTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_7b7cc498d20c0ca651f6c0d6b04fde429c156cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidProject\AndroidTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\androidProject\AndroidTest\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_da07c1832c0f771013c1b4418d863190003fa8dd.jar" />
     </item>
 
 </items>

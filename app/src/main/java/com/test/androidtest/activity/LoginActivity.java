@@ -1,4 +1,4 @@
-package com.test.androidtest;
+package com.test.androidtest.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -6,18 +6,16 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.test.androidtest.activity.MainActivity;
+import com.test.androidtest.R;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-import static android.R.attr.onClick;
-
 public class LoginActivity extends Activity {
 
-    @Bind(R.id.loginId)
-    Button loginId;
+//    @Bind(R.id.loginId)
+//    Button loginId;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
